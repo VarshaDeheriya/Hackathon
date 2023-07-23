@@ -1,1 +1,1 @@
-# Hackathon
+# Data Science Hackathon
